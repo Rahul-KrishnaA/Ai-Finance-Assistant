@@ -27,7 +27,7 @@ An AI-powered web application that helps users automatically *categorize expense
 ## 🏗 Folder Structure
 
 
-
+```bash
 finance_chatbot_app/
 │
 ├── app.py                  # Streamlit main app
