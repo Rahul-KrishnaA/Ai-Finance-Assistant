@@ -54,7 +54,7 @@ An AI-powered web application that helps users automatically **categorize expens
 
 ## 🧪 How to Run Locally
 
-1. *Clone the repository*
+*Clone the repository*
    ```bash
    git clone https://github.com/your-username/finance-chatbot-app.git
    cd finance-chatbot-app
