@@ -41,7 +41,6 @@ An AI-powered web application that helps users automatically *categorize expense
  ├── sample_data.csv         # Example CSV file
  └── README.md
 
----
 
 ## 📷 Screenshots
 
