@@ -40,7 +40,9 @@ An AI-powered web application that helps users automatically *categorize expense
  │   └── vectorizer.pkl       # TF-IDF Vectorizer
  ├── sample_data.csv         # Example CSV file
  └── README.md
+```
 
+---
 
 ## 📷 Screenshots
 
@@ -56,22 +58,24 @@ An AI-powered web application that helps users automatically *categorize expense
    ```bash
    git clone https://github.com/your-username/finance-chatbot-app.git
    cd finance-chatbot-app
-
+   ```
 
 Create a virtual environment :
 
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+  ```bash
+  python -m venv .venv
+  source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+  ```
 
 Install dependencies:
-
-pip install -r requirements.txt
-
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 RUN THE APP:
-
-streamlit run app.py
-
+  ```bash
+  streamlit run app.py
+  ```
 
 📁 Sample CSV Format
 
