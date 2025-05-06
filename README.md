@@ -48,7 +48,7 @@ An AI-powered web application that helps users automatically **categorize expens
 
 | Uploaded CSV | Budget Recommendation | Forecast Graph |
 |------------|--------------------------|----------------|
-| ![Upload CSV](screenshots/uploadedCSV.png) | ![Categorized](screenshots/budget-recommendation.png) | ![Forecast](screenshots/forest-graph.png) |
+| ![Upload CSV](screenshots/uploadedCSV.jpg) | ![Categorized](screenshots/budget-recommendation.jpg) | ![Forecast](screenshots/forest-graph.jpg) |
 
 ---
 
