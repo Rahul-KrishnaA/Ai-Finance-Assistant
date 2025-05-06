@@ -1,6 +1,6 @@
 # 💸 AI Personal Finance Assistant
 
-An AI-powered web application that helps users automatically *categorize expenses, **recommend budgets, and **forecast future spending* using uploaded transaction data. Built with *Streamlit*, this app simplifies personal finance management through machine learning and time-series forecasting.
+An AI-powered web application that helps users automatically #categorize expenses, #recommend budgets, and #forecast future spending* using uploaded transaction data. Built with *Streamlit*, this app simplifies personal finance management through machine learning and time-series forecasting.
 
 ---
 
@@ -90,4 +90,3 @@ Date,Description,Amount
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-Let me know your GitHub username or repo name if you'd like me to tailor it further!
